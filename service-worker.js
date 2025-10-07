@@ -1,4 +1,4 @@
-var cacheName = 'group_seongbuk_renpy';
+var cacheName = '눈-떠보니-내가-성북구-독립운동가-';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
